@@ -7,7 +7,7 @@
 > Projeto Yoga finalizado
 
 
-### Ajustes e melhorias
+### 🛠️ Ajustes e melhorias:
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
@@ -15,10 +15,11 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Utilização do CSS
 - [ ] Alteração do Layout
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-
-## 🤝 Colaboradores
+### 🤝 Desenvolvido por:
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
@@ -37,6 +38,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#yoga-interface)<br>
 
  
