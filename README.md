@@ -2,7 +2,7 @@
 
 
 
-<img src="./assets/logo.png" width="250px" alt="logo-yoga" >
+<img src="./assets/logo.png" width="300px" alt="logo-yoga" >
 
 > Projeto Yoga finalizado
 
